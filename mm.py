@@ -4,8 +4,8 @@ import bitmex
 import time
 import json
 
-ya_key = 'm97gXgKehwcEwPo7mOwhZ54l'
-ya_secret = 'I3-AlTg2REQV_S-nzBPvK3UrAnKh_p2LmcwFTi2P-3ufPXRj'
+ya_key = ''
+ya_secret = ''
 client = bitmex.bitmex(test=False, api_key=ya_key, api_secret=ya_secret)
 
 
